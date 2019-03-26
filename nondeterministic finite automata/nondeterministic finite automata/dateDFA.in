@@ -1,0 +1,17 @@
+4
+s p q r
+2
+a b
+8
+s a p
+s b s
+p a p
+p b q
+q a r
+q b s
+r a r
+r b r
+s
+1
+r
+baabbbaaababbababb
